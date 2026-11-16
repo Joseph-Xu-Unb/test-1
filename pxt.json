@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microphone": "*"
+        "microphone": "*",
+        "unbdev-board": "github:unb-ece/pxt-unbdev-board#v0.3.0"
     },
     "files": [
         "main.blocks",
